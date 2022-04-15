@@ -1,4 +1,4 @@
 # Quest-for-the-Golden-Pi
-A 16bit Story Driven Adventure Game for PACISE 2020 Conference.
+A 16bit Maze Game written in 8086 assembly.
 
 Purpose: Resume
